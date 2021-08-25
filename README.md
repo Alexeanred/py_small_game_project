@@ -1,2 +1,2 @@
 #Hello this is my game project
-#There are 6 projects
+#There are 5 projects
